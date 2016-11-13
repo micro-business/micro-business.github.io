@@ -1,1 +1,1 @@
-# microbusinesses.github.io
+# micro-business.github.io
